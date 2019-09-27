@@ -1,1 +1,1 @@
-This is a page about Jeff.  With caching and url validation
+This is a page about Jeff.  With caching and url validation and now function literals and closures.
